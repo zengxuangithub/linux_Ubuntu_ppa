@@ -9,5 +9,5 @@
 	例如  获取jdk 在该网站搜索java  其第一个结果  Oracle Java (JDK) 8 / 9 Installer PPA : “WebUpd8” team  点击进入  该软件源详情页
 	其中介绍有获取软件的方式和实例
 -   注意事项  
-	其中 获取软件源之前要确认你的ubuntu系统的 software sources.是否有与之对应的地址
+	其中 获取软件源之前要确认你的ubuntu系统的 software sources.是否有与之对应的地址   地址在软件源详情页里有介绍 
 	
